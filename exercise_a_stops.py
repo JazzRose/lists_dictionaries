@@ -24,4 +24,8 @@ stops.remove("Livingston")
 
 stops.pop(2)
 
+num_stops = len(stops)
+print(num_stops)
+
+
 print(stops)
