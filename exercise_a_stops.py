@@ -16,4 +16,4 @@ stops.append("Edinburgh Waverley")
 stops.insert(0,"Glasgow Queen Street")
 stops.insert(4,"Polmont")
 
-print(stops)
+print(stops.index("Linlithgow"))
