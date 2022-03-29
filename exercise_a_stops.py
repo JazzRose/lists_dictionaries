@@ -21,3 +21,7 @@ stops.insert(4,"Polmont")
 print(stops.index("Linlithgow"))
 
 stops.remove("Livingston")
+
+stops.pop(2)
+
+print(stops)
