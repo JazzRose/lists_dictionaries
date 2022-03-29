@@ -31,4 +31,5 @@ stops.sort()
 
 stops.reverse()
 
-print(stops)
+for stop in stops:
+    print(stop)
