@@ -29,4 +29,6 @@ print(num_stops)
 
 stops.sort()
 
+stops.reverse()
+
 print(stops)
