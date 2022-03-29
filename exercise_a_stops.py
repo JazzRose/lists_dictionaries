@@ -27,5 +27,6 @@ stops.pop(2)
 num_stops = len(stops)
 print(num_stops)
 
+stops.sort()
 
 print(stops)
