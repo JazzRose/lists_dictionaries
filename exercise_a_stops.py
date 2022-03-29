@@ -13,3 +13,6 @@ stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Ha
 
 
 stops.append("Edinburgh Waverley")
+stops.insert(0,"Glasgow Queen Street")
+
+print(stops)
